@@ -1,0 +1,30 @@
+_repo: The-day-s-journey_71317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Syrett, Netta
+    alias: Syrett, Janet
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '6244'
+    url: http://www.gutenberg.org/2009/agents/6244
+    wikipedia: https://en.wikipedia.org/wiki/Netta_Syrett
+description: ''
+gutenberg_issued: '2023-08-02'
+identifiers:
+  gutenberg: '71317'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433075753347&view=1up&seq=2
+pgterms:marc905: 20221207185707syrett
+pgterms:marc906: '1906'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The New York Public Library's Digital Collections)
+publication_note: '  $aUnited States :$bA. C. McClurg & Co., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The day's journey
+url: http://www.gutenberg.org/ebooks/71317
